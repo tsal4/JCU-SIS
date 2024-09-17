@@ -34,7 +34,7 @@ c = conn.cursor()
 ###GUI 
 # GUI Creation
 root = Tk()
-root.title("Class Registration")
+root.title("Course Registration")
 root.geometry('330x200')
 
 # Labels
