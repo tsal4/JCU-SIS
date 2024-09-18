@@ -3,7 +3,7 @@
 This application is a mock John Carroll University Student Information System. It uses Python GUIs to select, insert, and delete information from a database in SQLiteStudio.
 
 Functionalities include:
-- Data Entry: dding a student, instructor, or course to a database
+- Data Entry: adding a student, instructor, or course to a database
 - Course Registration: registering or dropping a student from a course
 - Reports: getting the student or instructor schedules
 
