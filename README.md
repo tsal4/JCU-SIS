@@ -30,5 +30,13 @@ Reports can print out schedules. These schedules only include the students that 
 <br>
 These schedules are pulled from the database and printed out.
 <br>
+
+Students Schedule:
+<br>
 ![sroster_1](https://github.com/user-attachments/assets/4ddca723-4926-4193-b8d7-a7afd9b4d6b0)
+<br>
+
+Instructor Schedule:
+<br>
+![iroster_2](https://github.com/user-attachments/assets/cd1f3559-ab22-42dc-9762-8da2fc2a228e)
 
