@@ -30,4 +30,5 @@ Reports can print out schedules. These schedules only include the students that 
 <br>
 These schedules are pulled from the database and printed out.
 <br>
-![sroster_2](https://github.com/user-attachments/assets/830f804c-523c-43a1-91f3-e2fe5c891adb)
+![sroster_1](https://github.com/user-attachments/assets/4ddca723-4926-4193-b8d7-a7afd9b4d6b0)
+
