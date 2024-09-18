@@ -14,6 +14,7 @@ The main dashboard functions as the hub for all activity.
 Data entry allows you to add a student, instructor, or course to the database. Clicking one of the buttons will bring up another GUI to enter in the data.
 This is the Add Student GUI:
 ![add_student](https://github.com/user-attachments/assets/5f9f1030-157f-4c8f-aff1-22adc7626a3b)
+<br>
 Pressing "Add Student" will add the information straight into the database.
 
 
